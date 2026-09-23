@@ -1,4 +1,4 @@
-CASINO DES ATLANTES — PROPOSITION DE REFONTE V2
+CASINO DES ATLANTES
 
 Structure :
 - index.html : accueil
@@ -11,9 +11,9 @@ Structure :
 - acces.html : carte + stationnement
 - css/style.css : design global
 - js/script.js : menu mobile + animations + retour en haut
-- images/ : place ici les images existantes du projet
+- images/ : images existantes du projet
 
-Images attendues :
+Images:
 casino.jpg
 casino-int.jpg
 casino-plage.jpg
