@@ -93,7 +93,10 @@ button{font:inherit}
 .footer a{display:block;color:#aab1bb;margin:8px 0;font-size:13px}
 .footer p{color:#89929e;margin-top:10px}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.1);margin-top:45px;padding-top:20px;display:flex;justify-content:space-between;color:#68717d;font-size:11px}
-.reveal{opacity:0;transform:translateY(24px);transition:.7s ease}
+.reveal {
+  opacity: 1;
+  transform: none;
+}
 .reveal.visible{opacity:1;transform:none}
 .top-link{position:fixed;right:22px;bottom:22px;z-index:900;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:var(--gold);color:var(--ink);font-weight:800;opacity:0;pointer-events:none;transition:.25s}
 .top-link.show{opacity:1;pointer-events:auto}
